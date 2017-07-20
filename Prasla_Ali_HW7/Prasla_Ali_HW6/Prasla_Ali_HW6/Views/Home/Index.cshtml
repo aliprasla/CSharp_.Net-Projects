@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>
+    Tracker Home Page</h2>
+<table>
+    <tr>
+        <td>
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Members" onclick="location.href = '@Url.Action("Index","Users")'" class="btn btn-primary" />
+            </div>
+        </td>
+        <td>
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Events" onclick="location.href = '@Url.Action("Index","Events")'"  class="btn btn-success" />
+            </div>
+        </td>
+        <td>
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Committees"onclick="location.href = '@Url.Action("Index","Committees")'" class="btn btn-danger" />
+            </div>
+        </td>
+    </tr>
+</table>

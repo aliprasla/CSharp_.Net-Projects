@@ -1,0 +1,12 @@
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.exe.config
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.exe
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.pdb
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.exe
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Intro to C#\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.pdb
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.exe.config
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.exe
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.pdb
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\obj\Debug\Prasla_Ali_HW1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.exe
+C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW1\Prasla_Ali_HW1\bin\Debug\Prasla_Ali_HW1.pdb

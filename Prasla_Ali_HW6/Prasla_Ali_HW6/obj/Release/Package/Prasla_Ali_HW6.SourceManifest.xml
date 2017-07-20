@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW6\Prasla_Ali_HW6\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW6\Prasla_Ali_HW6\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Ali\Desktop\COOKEM CORNS\Ali Prasla and the Prisoner of Aksaban\Spring 2017\MIS 333k\Prasla_Ali_HW6\Prasla_Ali_HW6\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
